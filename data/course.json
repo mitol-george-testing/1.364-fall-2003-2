@@ -1,0 +1,34 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Civil Engineering",
+      "Geotechnical Engineering"
+    ],
+    [
+      "Engineering",
+      "Civil Engineering",
+      "Structural Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "3afeb042-6d79-96e4-46f6-df1c18da0450"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Advanced Geotechnical Engineering",
+  "course_description": "1.364 examines site characterization and geotechnical aspects of the design and construction of foundation systems. Topics include: site investigation (with emphasis on in situ testing), shallow (footings and raftings) and deep (piles and caissons) foundations, excavation support systems, groundwater control, slope stability, soil improvement (compaction, soil reinforcement, etc.), and construction monitoring. This course is a core requirement for the Geotechnical Master of Engineering program at MIT.\n",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1.364",
+  "learning_resource_types": [
+    "Exams",
+    "Design Assignments",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
